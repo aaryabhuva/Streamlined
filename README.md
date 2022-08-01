@@ -7,8 +7,9 @@ Install Python on your device, and create a virtual environment for this folder 
 Then execute the following command on your terminal:
 
 pip3 install kivy
+pip3 install pyserial
 
-This is required for the graphical interface to function correctly.
+This is required for the graphical interface and the Arduino code to function correctly.
 
 To run the text interface, type "python3 text_interface.py" on your terminal, once you locate this particular folder on your device.
 
